@@ -1,0 +1,21 @@
+:root {
+  --ink-900: #14171F;
+  --ink-700: #2B303B;
+  --ink-500: #5E6370;
+  --ink-400: #8A8E98;
+  --paper: #FAF7F2;
+  --white: #FFFFFF;
+  --sand-100: #F3EEE6;
+  --sand-200: #E8E1D5;
+  --line: #E3DDD2;
+  --ember-500: #E4572E;
+  --ember-600: #C6421D;
+  --ember-50: #FCEDE7;
+  --delta-700: #0E5A47;
+  --delta-50: #E6F0EC;
+  --gold-500: #C9A15B;
+  --success: #1F8A5B;
+  --warning: #B7791F;
+  --error: #C8372D;
+  --focus: #3B6EF5;
+}
